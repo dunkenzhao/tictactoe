@@ -21,9 +21,6 @@
 <p><strong>Company</strong> (referred to as either &quot;the Company&quot;, &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot; in this Agreement) refers to Tic Tac Toe (Rabbit vs Wolf).</p>
 </li>
 <li>
-<p><strong>Country</strong> refers to: United States</p>
-</li>
-<li>
 <p><strong>Device</strong> means any device that can access the Service such as a computer, a cellphone or a digital tablet.</p>
 </li>
 <li>
