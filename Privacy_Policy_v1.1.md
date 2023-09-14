@@ -50,7 +50,7 @@
 Explanation of permissions requested in the app
 The list of permissions required by the app can be found in the AndroidManifest.xml file:</p>
 <ul>
-<li><pre> <uses-permission android:name="None"/></pre></li>
+<li>  	&lt;uses-permission android:name="None"/&gt;</li>
 </ul>
 <h3>Usage Data</h3>
 <p>Usage Data is collected automatically when using the Service.</p>
