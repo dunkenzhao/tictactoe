@@ -45,12 +45,12 @@
 <h1>Collecting and Using Your Personal Data</h1>
 <h2>Types of Data Collected</h2>
 <h3>Personal Data</h3>
-<p>I hereby state, to the best of my knowledge and belief, that I have not programmed this app to collect any personally identifiable information. All data (app preferences (like theme, etc.) and alarms) created by the you (the user) is stored on your device only, and can be simply erased by clearing the app's data or uninstalling it.
+<p>I hereby state, to the best of my knowledge and belief, that I have not programmed this app to collect any personally identifiable information. All data  is stored on your device only, and can be simply erased by exiting the app.
 
 Explanation of permissions requested in the app
 The list of permissions required by the app can be found in the AndroidManifest.xml file:</p>
 <ul>
-<li><pre> <uses-permission android:name="None"/></uses-permission>pre></li>
+<li><pre> <uses-permission android:name="None"/></pre></li>
 </ul>
 <h3>Usage Data</h3>
 <p>Usage Data is collected automatically when using the Service.</p>
