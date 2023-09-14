@@ -60,9 +60,7 @@ The list of permissions required by the app can be found in the AndroidManifest.
 <li>
 <p><strong>To provide and maintain our Service</strong>, including to monitor the usage of our Service.</p>
 </li>
-<li>
-<p><strong>To manage Your Account:</strong> to manage Your registration as a user of the Service. The Personal Data You provide can give You access to different functionalities of the Service that are available to You as a registered user.</p>
-</li>
+
 <li>
 <p><strong>For the performance of a contract:</strong> the development, compliance and undertaking of the purchase contract for the products, items or services You have purchased or of any other contract with Us through the Service.</p>
 </li>
